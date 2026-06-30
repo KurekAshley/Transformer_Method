@@ -1,0 +1,507 @@
+# Diagram Standards
+
+**Repository:** Transformer Method Canon  
+**Document Type:** Visual Architecture Standard  
+**Version:** 1.0  
+**Status:** Canonical
+
+---
+
+# Purpose
+
+This document defines the standards used for all diagrams, visual frameworks, flowcharts, SVG assets, illustrations, and visual learning models contained within the Transformer Method Canon.
+
+The purpose of these standards is to ensure consistency, clarity, simplicity, and recognizability across all visual assets.
+
+Every diagram should reinforce understanding.
+
+Visuals should simplify complexity, not create it.
+
+---
+
+# Guiding Principle
+
+The primary purpose of every diagram is:
+
+> To make transformation easier to understand.
+
+A diagram should communicate a concept faster than text alone.
+
+If a diagram creates confusion, it should be simplified.
+
+---
+
+# Visual Philosophy
+
+Transformer Method diagrams should be:
+
+- Clean
+- Minimal
+- Professional
+- Timeless
+- Easy to teach
+- Easy to reproduce
+- Easy to remember
+
+Visual elegance should never come at the expense of clarity.
+
+---
+
+# Preferred Diagram Style
+
+The preferred visual style is:
+
+```text
+Simple
+Linear
+Hierarchical
+Directional
+```
+
+Examples:
+
+```text
+Identity
+↓
+Expectation
+↓
+Behaviour
+↓
+Results
+```
+
+and
+
+```text
+Purpose
+↓
+Direction
+↓
+Decisions
+↓
+Actions
+↓
+Results
+```
+
+These are considered canonical diagram formats.
+
+---
+
+# Diagram Categories
+
+All diagrams should belong to one of the following categories.
+
+## 1. Linear Models
+
+Cause-and-effect sequences.
+
+Example:
+
+```text
+Identity
+↓
+Frequency
+↓
+Behaviour
+↓
+Results
+```
+
+---
+
+## 2. Feedback Loops
+
+Self-reinforcing systems.
+
+Example:
+
+```text
+Identity
+↓
+Behaviour
+↓
+Results
+↓
+References
+↓
+Identity
+```
+
+---
+
+## 3. Hierarchical Models
+
+Tiered structures.
+
+Example:
+
+```text
+Identity
+├── Beliefs
+├── Values
+├── Expectations
+└── Behaviours
+```
+
+---
+
+## 4. System Maps
+
+Illustrate interactions between doctrines.
+
+Example:
+
+```text
+Purpose
+↓
+Vision
+↓
+Identity
+↓
+Frequency
+↓
+Results
+```
+
+---
+
+# Canonical Flow Direction
+
+All primary Transformer Method diagrams should flow:
+
+```text
+Top
+↓
+Bottom
+```
+
+Vertical flow is preferred.
+
+This reflects:
+
+- Progression
+- Growth
+- Cause and effect
+- Transformation
+
+---
+
+# Arrow Standards
+
+Use simple arrows.
+
+Preferred:
+
+```text
+↓
+→
+←
+↑
+```
+
+For loops:
+
+```text
+↺
+```
+
+Avoid excessive arrow styles.
+
+Consistency is more important than decoration.
+
+---
+
+# Box Standards
+
+Boxes should remain simple.
+
+Example:
+
+```text
+┌────────────┐
+│ Identity   │
+└────────────┘
+```
+
+Avoid unnecessary complexity.
+
+---
+
+# Color Standards
+
+The Transformer Method visual identity uses:
+
+## Primary Color
+
+```text
+Red
+```
+
+Purpose:
+
+- Highlights
+- Interrupts
+- Emphasis
+
+---
+
+## Secondary Color
+
+```text
+Dark Red
+```
+
+Purpose:
+
+- Supporting emphasis
+- Secondary highlights
+
+---
+
+## Neutral Palette
+
+```text
+Black
+White
+Grey
+```
+
+Purpose:
+
+- Text
+- Structure
+- Backgrounds
+- Documentation
+
+---
+
+# Color Philosophy
+
+Red should be used sparingly.
+
+Red is reserved for:
+
+- Important distinctions
+- Key breakthroughs
+- Critical concepts
+- Visual emphasis
+
+When everything is emphasized, nothing is emphasized.
+
+---
+
+# Typography Standards
+
+Preferred fonts:
+
+```text
+Inter
+Helvetica
+Arial
+Roboto
+```
+
+Characteristics:
+
+- Clean
+- Professional
+- Readable
+
+Avoid decorative fonts.
+
+---
+
+# SVG Standards
+
+All repository diagrams should be stored as:
+
+```text
+.svg
+```
+
+whenever possible.
+
+Advantages:
+
+- Scalable
+- Lightweight
+- Editable
+- Future-proof
+
+---
+
+# File Organization
+
+Store visual assets within:
+
+```text
+/assets/
+```
+
+Recommended structure:
+
+```text
+assets/
+├── diagrams/
+├── icons/
+├── frameworks/
+├── assessments/
+└── branding/
+```
+
+---
+
+# Naming Convention
+
+Use lowercase filenames.
+
+Use hyphens.
+
+Examples:
+
+```text
+identity-creates-frequency.svg
+
+purpose-is-the-rudder.svg
+
+grand-dream-goals.svg
+
+frequency-form-creation-model.svg
+```
+
+Avoid spaces.
+
+Avoid special characters.
+
+---
+
+# Diagram Construction Rules
+
+Every diagram should answer at least one of the following:
+
+- How does it work?
+- What causes what?
+- What sequence occurs?
+- What changes?
+- What creates transformation?
+
+If it answers none of these, it likely should not exist.
+
+---
+
+# Doctrine Diagram Requirements
+
+Every major doctrine should eventually include:
+
+## Primary Diagram
+
+The simplest possible explanation.
+
+Example:
+
+```text
+Identity
+↓
+Behaviour
+↓
+Results
+```
+
+---
+
+## Expanded Diagram
+
+A more complete explanation.
+
+Example:
+
+```text
+Identity
+↓
+Expectation
+↓
+Frequency
+↓
+Behaviour
+↓
+Results
+```
+
+---
+
+# Complexity Rule
+
+When two diagrams explain the same concept:
+
+Choose the simpler one.
+
+The Transformer Method favors clarity over complexity.
+
+---
+
+# Visual Consistency Rule
+
+All diagrams should:
+
+- Use the same terminology
+- Use the same directional flow
+- Use the same design language
+- Use the same visual hierarchy
+
+Consistency builds recognition.
+
+Recognition builds understanding.
+
+---
+
+# Diagram Review Checklist
+
+Before a diagram becomes canonical, ask:
+
+```text
+Is it clear?
+
+Is it simple?
+
+Is it accurate?
+
+Is it teachable?
+
+Does it support transformation?
+
+Does it align with existing doctrine?
+```
+
+If the answer is no to any question, revise the diagram.
+
+---
+
+# Master Visual Principle
+
+The purpose of a diagram is not decoration.
+
+The purpose of a diagram is acceleration of understanding.
+
+The best diagram is the one that creates immediate clarity.
+
+---
+
+# Canonical Statement
+
+> A great diagram turns complexity into clarity.
+
+---
+
+## Canon Information
+
+**Repository:** Transformer Method Canon  
+**Owner:** Kurek Ashley  
+**Status:** Canonical Standard  
+**Version:** 1.0
+
+---
+
+**Transformer Method™**
+
+*Creating transformation through identity, frequency, purpose, and action.*
